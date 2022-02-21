@@ -61,5 +61,8 @@
     "@babel/preset-env": "^7.16.11",
     "@babel/preset-react": "^7.16.7",
     "babel-plugin-transform-class-properties": "^6.24.1"
+  },
+  "resolutions": {
+    "@polkadot/keyring": "5.2.3"
   }
 }
